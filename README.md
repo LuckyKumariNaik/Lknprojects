@@ -1,3 +1,3 @@
 # Lknprojects
-My First Repository.&lt; <br>
+My First Repository. <br>
 Author:Lucky Kumari Naik
